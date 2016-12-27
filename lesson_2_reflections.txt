@@ -1,34 +1,20 @@
-First reflection.
+Second Lesson Reflections
 
-Never new control prompt had a file compare fundtion in it. FC command! Huh.
+First reflection (2nd Lesson)
 
-Second reflection.
+Learnt 2 new commands:
+GIT INIT - which creates the new meta data files neccessary for a GIT repository. It doesn't create a new repository. You just type this in the folder that you want to "respositorize", can be empty or have stuff.
 
-Having access to the entire history of a file could make you more efficient as a programmer as you can see where things were changed, what went wrong etc. You also have the ability to work with others and integrate chunks of code more easily.
+GIT STATUS - gives a rundown of how the repsoitory is travelling.
 
-Third reflection
+When you initialize a repository, I think the main thing that happens is that the GIT meta data file is created and the tracking of the files begins. It doesn't do an automatic commit though, so if
+you try to run a GIT LOG without doing a manual commit, you'll get an error.
 
-Having manual commits gives greater flexibility and gives the commits the ability to be more meaningful. If you just had automatic commits, while you'd never miss anything, you would have a lot of commits that were meaningless.
+Second reflection (2nd Lesson)
 
-Fourth reflection
-Allowing mulitple files in one commit works for the programming environment. Often, you are likely to have tightly related files that require updates at the same time. This is less likely in something like google docs.
+The staging area is like a halfway house for files that will be added to the repository. It gives you flexibilty in that you can select what files to add from the working directory and then eases use by being able to 
+batch those files for the commit.
 
-Fifth reflection
-Using the command git log is usefull as you can see the whole change log for the repository (this of course means that you have meaningful commit messages). Using git diff command is a ok. I guess. I'm not loving the whole copy and paste ids thing - especially in the git bash environment...
 
-Must be a better way to copy and paste then using the context menu.
 
-Sixth reflection
-Clearly your confidence is increased when you know you can simply roll back your code via a GIT checkout statement. You would be much more likely to try different things. 
-
-Seventh reflection
-I want to use GIT for version control on the systems that I build. I've used SVN, but that seems like it's out of fashion, and we were never really taught how to use it beyond the basics. So this course seems like a good idea.
-
-Just some final notes from the first section...
-
-Four main commands learnt:
-GIT DIFF
-GIT CLONE
-GIT LOG
-GIT CHECKOUT
 
