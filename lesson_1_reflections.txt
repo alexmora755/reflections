@@ -10,6 +10,10 @@ GIT STATUS - gives a rundown of how the repsoitory is travelling.
 When you initialize a repository, I think the main thing that happens is that the GIT meta data file is created and the tracking of the files begins. It doesn't do an automatic commit though, so if
 you try to run a GIT LOG without doing a manual commit, you'll get an error.
 
+Second reflection (2nd Lesson)
+
+The staging area is like a halfway house for files that will be added to the repository. It gives you flexibilty in that you can select what files to add from the working directory and then eases use by being able to 
+batch those files for the commit.
 
 
 
