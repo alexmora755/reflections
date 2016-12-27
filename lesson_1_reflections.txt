@@ -1,0 +1,15 @@
+Second Lesson Reflections
+
+First reflection (2nd Lesson)
+
+Learnt 2 new commands:
+GIT INIT - which creates the new meta data files neccessary for a GIT repository. It doesn't create a new repository. You just type this in the folder that you want to "respositorize", can be empty or have stuff.
+
+GIT STATUS - gives a rundown of how the repsoitory is travelling.
+
+When you initialize a repository, I think the main thing that happens is that the GIT meta data file is created and the tracking of the files begins. It doesn't do an automatic commit though, so if
+you try to run a GIT LOG without doing a manual commit, you'll get an error.
+
+
+
+
