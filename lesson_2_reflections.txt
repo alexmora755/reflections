@@ -16,5 +16,8 @@ The staging area is like a halfway house for files that will be added to the rep
 batch those files for the commit.
 
 
-
+Third reflection second lesson
+How can you use the staging area to make sure you have one commit per logical change? Not sure. I guess you 
+need to be disciplined with your approach? Maybe don't change a file once it's been added to the staging
+area. So that's interesting... What happens if you change a file when it's in the staging  area? Not sure.
 
