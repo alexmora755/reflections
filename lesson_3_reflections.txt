@@ -4,3 +4,18 @@ First reflection of lesson 3:
 When would you want to use a remote repository rather than keeping all your work local?
 
 If you were working in a team environment. Also if you were working across multiple computers - having a remote repository would be far easier than constantly copying files to a memory stick. And safer.
+
+Second reflection of lesson 3:
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+This could be due to conflict control - if it was set to automatically stay up-to-date, then you could have issues along those lines. Also, by having it set manually, you have a clearer indication of when
+you updated your repository. I would think it would be easier to keep straight that way and just be more logical...
+
+
+Third reflection of lesson 3:
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks - Are a way to easily copy another repository on GIT-HUB, with the advantage that you can  easily see (as can others) where the repository started from.
+
+Clones - Seem to be used mainly when you want to grab a copy of a repository, without needing the advantages that a Fork has. Now that I know about forking, not sure how much cloning I'll need.
+
+Branches - As in lesson 2, branches can be used to segment coding/project efforts. Branches can be used to develop feature sets etc... All without disrupting the master branch of code.
