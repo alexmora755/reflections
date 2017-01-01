@@ -1,1 +1,6 @@
 
+First reflection of lesson 3:
+
+When would you want to use a remote repository rather than keeping all your work local?
+
+If you were working in a team environment. Also if you were working across multiple computers - having a remote repository would be far easier than constantly copying files to a memory stick. And safer.
